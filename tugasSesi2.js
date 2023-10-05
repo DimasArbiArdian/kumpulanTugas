@@ -1,7 +1,7 @@
-let firstName = "Dimas";
-let lastName = "Arbi Ardian";
-let age = 20;
-let isMarried = false;
+const firstName = "Dimas";
+const lastName = "Arbi Ardian";
+const age = 20;
+const isMarried = false;
 
 console.log("Nama Depan: " + firstName);
 console.log("Nama Belakang: " + lastName);
