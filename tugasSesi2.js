@@ -1,7 +1,7 @@
-var firstName = "NamaDepan";
-var lastName = "NamaBelakang";
-var age = 25; // Ganti dengan umur Anda
-var isMarried = false; // Ganti dengan true jika Anda sudah menikah atau false jika belum
+let firstName = "Dimas";
+let lastName = "Arbi Ardian";
+let age = 20;
+let isMarried = false;
 
 console.log("Nama Depan: " + firstName);
 console.log("Nama Belakang: " + lastName);
