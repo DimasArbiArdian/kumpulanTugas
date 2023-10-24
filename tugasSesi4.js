@@ -1,4 +1,4 @@
-const pendapatanHarian = 500000; 
+const pendapatanHarian = 526000; 
 let uangJasa;
 let uangKomisi;
 
